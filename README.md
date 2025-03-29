@@ -10,7 +10,7 @@ Testing procedure:
 
 ### RO
 Implementați mecanismul de persistare a datelor între mai multe rulări ale aplicației prin scrierea datelor în fișier(e).
-- (10p) Implemntați cel puțin o funcționalitate din enunț care să salveze date în fișier(e) (de exemplu - `Adaugă <ceva>`)
+- (10p) Implementați cel puțin o funcționalitate din enunț care să salveze date în fișier(e) (de exemplu - `Adaugă <ceva>`)
 
 Procedura de testare:
 1. Se deschide fișierul care se va modifica din aplicație, se văd datele, se închide fișierul
